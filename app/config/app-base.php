@@ -41,9 +41,6 @@ return array(
 		'Illuminate\Validation\ValidationServiceProvider',
 		'Illuminate\View\ViewServiceProvider',
 		'Illuminate\Workbench\WorkbenchServiceProvider',
-		
-		'Anouar\Fpdf\FpdfServiceProvider',
-		'yajra\Oci8\Oci8ServiceProvider',
 
 	),
 
@@ -98,8 +95,6 @@ return array(
 		'URL'               => 'Illuminate\Support\Facades\URL',
 		'Validator'         => 'Illuminate\Support\Facades\Validator',
 		'View'              => 'Illuminate\Support\Facades\View',
-		
-		'Fpdf'    => 'Anouar\Fpdf\Fpdf',
 
 	),
 
