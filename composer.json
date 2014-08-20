@@ -1,6 +1,6 @@
 {
-	"name": "laravel/laravel",
-	"description": "The Laravel Framework.",
+	"name": "laurenceHR/laravel-core",
+	"description": "Custom Laravel Framework.",
 	"keywords": ["framework", "laravel"],
 	"license": "MIT",
 	"require": {
@@ -10,6 +10,7 @@
 		"classmap": [
 			"app/commands",
 			"app/controllers",
+			"app/services",
 			"app/models",
 			"app/database/migrations",
 			"app/database/seeds",
